@@ -1,0 +1,66 @@
+/*----------------------------*/
+/* COPYRIGHT PART */
+/*----------------------------*/
+
+#wrapper-copyright{
+	float:left;
+	width:100%;
+	height:70px;
+	background-color:black;
+}
+
+.copyright{
+	position:relative;
+	width:1200px;
+	left:50%;
+	margin-left:-600px;
+	height:100%;
+	top:0;
+}
+
+.copy-text{
+	float:left;
+	text-align:left;
+	font-family: Helvetica, sans-serif;
+    font-size: 15px;
+	height:70px;
+	line-height:70px;
+	cursor:pointer;
+	-webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+	color:#666;
+	margin-left:15px;
+	font-weight:500;
+}
+
+.wrapper-navbouton{
+	position:absolute;
+	height:100%;
+	right:0;
+}
+
+.google,.facebook,.dribbble,.linkin{
+	-webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+	text-align:right;
+	font-family:'socialicoregular';
+    font-size: 44px;
+	height:70px;
+	line-height:70px;
+	float:right;
+	opacity:0.5;
+	cursor:pointer;
+	float:right;
+	color:#666;
+	opacity:1;
+}
+
+.dribbble,.facebook,.linkin,.google{padding-right:20px;}
+.dribbble,.facebook,.linkin{padding-right:12px;}
+
+.linkin:hover,.google:hover,.facebook:hover,.dribbble:hover{color:#CCC;transform: scale(1.2);}
+
+
+
+
+

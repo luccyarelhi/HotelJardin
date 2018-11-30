@@ -1,0 +1,51 @@
+
+/* Mis estilos */
+
+
+.letras{
+  font-family: "jestho";
+  font-size: 35px;
+  color: #ffff1a;
+  border: 1px;
+  text-shadow: 2px 1px #269900;
+}
+
+.letras1{
+  font-family: "jestho";
+  font-size: 10px;
+}
+
+.letras2{
+  font-family: Vivaldi;
+  font-style: oblique;
+  font-size: 16px;
+}
+
+.navbarra{
+  font-style: oblique;
+}
+
+.fondo1{
+   background-color: #f5f5f0;
+
+}
+
+
+@font-face{
+  font-family:lovely;
+  src: url("../../../plantilla/fonts/lonely_basket/Lonely.ttf");
+
+}
+
+@font-face{
+  font-family:jestho;
+  src: url("../../../plantilla/fonts/birds/birds.ttf");
+
+}
+
+@font-face{
+  font-family: edwardian;
+  src: url("../../../plantilla/fonts/edwardian/Edwardian.ttf");
+
+}
+

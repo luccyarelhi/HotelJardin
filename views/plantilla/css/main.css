@@ -1,0 +1,252 @@
+.white{
+	background-color: white;
+	height: 130px;
+	position: fixed;
+	width: 100%;
+	z-index: 15;
+}
+#wrapper-copyright2
+{
+
+  background-color: purple;
+}
+#wrapper-copyright
+{
+	float:left;
+	width:100%;
+	height:70px;
+	background-color:#2E2D30;
+}
+.copyright{
+	position:relative;
+	width:1200px;
+	left:50%;
+	margin-left:-600px;
+	height:100%;
+	top:0;
+}
+@media only screen and (max-width: 480px) {
+#main-header,.navbar,.container,.container-footer,.thank,.oldnew,.copyright {
+	width:295px;
+	margin-left:-147.5px;
+}
+.academy {
+	color: #192951;
+	font-size: 24px;
+	position: relative;
+	left: 345px;
+	top: 32px;
+}
+nav{
+	position: relative;
+	top: 53px;
+	right: 80px;
+	font-size: 15px;
+}
+
+ul li {
+	display: inline-block;
+	margin:35px;
+
+}
+a{
+	color: grey;
+}
+.pad{
+	padding-top: 100px;
+}
+
+.ballet{
+	background: url(../img/dance_1.jpg)no-repeat;
+	background-size: 100% 150%;
+    height: 400px;
+    background-size: cover;
+
+
+}
+.Estudio{
+	position: relative;
+	top: 50px;
+	right: 80px;
+}
+.studio{
+	color: #C3C6C5;
+	font-size: 64px;
+}
+.JulliartStudios{
+	color: #C3C6C5;
+	font-size: 13px;
+	margin-top: 22px;
+
+}
+.signup{
+	background-color:#030D1C;
+	height: 40px;
+	width: 110px;
+	position:relative;
+	top: 30px;
+	left: 3px;
+	
+}
+.inscribete{
+	
+	font-size: 12px;
+	padding-top: 13px;
+	padding-left: 23px;
+}
+.blanco{
+	color: white;
+	text-decoration: none;
+}
+.fondo{
+	background-image:url("../img/textura_2.jpg");
+	height: 370px;
+}
+.trayectoria{
+	font-size: 24px;
+	text-align: center;
+	position: relative;
+	margin-top: 55px;
+	width: 700px;
+	left: 120px;
+}
+.reputacion{
+	position: relative;
+	top: 85px;
+	right: 200px;
+	height: 130px;
+}
+.bluebox{
+	background-color: #192951;
+	height: 65px;
+	width: 300px;
+	position: relative;
+	right: 435px;
+	border-radius: 5px;
+	margin-top: 200px;
+}
+.oferta{
+	color: white;
+	padding-left: 75px;
+	padding-top: 22px; 
+}
+.descuento{
+	text-decoration: none;
+	color: white;
+}
+
+.dancers{
+	height: 600px;
+	background-image:url("../img/textura_2.jpg");
+}
+.izquierdo{
+	background-image:url("../img/instructor_4.jpg");
+	height: 315px;
+	background-repeat:  none;
+	background-size: cover;
+	border:2px solid #192951;
+
+}
+.derecho{
+	background-image:url("../img/profesor_9.jpg");
+	height: 315px;
+	background-repeat:none;
+	background-size: cover;
+	border:2px solid #192951;	
+}
+.caja{
+	background-color: #192951;
+	height: 65px;
+	width: 320px;
+	margin: auto;
+	position: relative;
+	bottom: 67px;
+}
+.nuestros{
+	color: white;
+	padding-left: 75px;
+	padding-top: 22px; 
+}
+.danza{
+	font-size: 37px;
+	font-weight: bold;
+	text-align: center;
+}
+.text{
+	color: white;
+}
+
+
+.fondo4 {
+	background-color: #192951;
+	width: 100%;
+	padding: 80px 0px;
+}
+.blue, .fa-skype{
+	color: #00AFF0;
+	font-size: 12px;
+}
+.fa-skype{
+	background-color: white;
+}
+.costado{
+	max-width: 220px;
+}
+.visitanos{
+	font-size: 17px;
+	margin: 14px 0px 5px;
+	color: white;
+	font-weight: bold;
+}
+.ao{
+	position: relative;
+	right: 90px;
+}
+.mapa {
+	width: 250px;
+	height: 250px;
+}
+.contactanos {
+	color: #2F3D61;
+	font-size: 30px;
+	font-weight: bold;
+}
+.balletshoes {
+    background: url("../img/shoes_1.jpg")no-repeat;
+    background-size: 60% 100%;
+    height: 587px;
+    background-position: 470px 0px;
+    padding: 80px 0px;
+}
+input, .messaje {
+	display: block;
+	width: 450px;
+	padding: 7px 34px;
+	margin: 12px 0px;
+	border-radius: 3px;
+	border: 1px #ccc solid;
+}
+.fa-envelope, .fa-pencil, .fa-user {
+	position: absolute;
+	margin: 8px 10px;
+}
+.enviar {
+	background-color: #192951;
+	color: white;
+	padding: 15px;
+	font-size: 15px;
+}
+.end{
+	background-color: #192951;
+	height: 70px;
+}
+.final{
+	color: white;
+	font-size:13px;
+	position: relative;
+	right: 80px;
+	top: 26px;
+}
+
+
+
